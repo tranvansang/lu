@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+check_6	my_lu.m	/^function check_6(is_full)$/;"	f
+easy_check	my_lu.m	/^function easy_check()$/;"	f
+lu_solve	my_lu.m	/^function x = lu_solve(lu_mat, b)$/;"	f
+main	my_lu.m	/^function main()$/;"	f
+my_lu	my_lu.m	/^function [p, lu_mat, q] = my_lu(A, is_full)$/;"	f
+solve	my_lu.m	/^function x = solve(A, b)$/;"	f
+solve_6	my_lu.m	/^function [A, p, l, u, q ] = solve_6()$/;"	f
+solve_low	my_lu.m	/^function x = solve_low(lu_mat, b)$/;"	f
+solve_up	my_lu.m	/^function x = solve_up(lu_mat, b)$/;"	f

@@ -1,2 +1,2 @@
-all: lu.m
-	octave lu.m
+all: my_lu.m
+	octave my_lu.m
